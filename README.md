@@ -1,4 +1,4 @@
-# -AUTOMATIC-ALCOHOL-DETECTION-SYSTEM
+# AUTOMATIC-ALCOHOL-DETECTION-SYSTEM
  AUTOMATIC ALCOHOL DETECTION SYSTEM Using Alcohol detection sensor which is the part of Internet Of Things
  This project introduces a sophisticated, integrated system designed to detect alcohol levels 
 in the breath of a driver before allowing vehicle operation. Using a reliable ethanol gas sensor, 
